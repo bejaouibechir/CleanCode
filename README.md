@@ -52,9 +52,8 @@ Le **clean code** est un concept essentiel en développement logiciel. Voici un 
 10. **Évitez les odeurs de code** :
     - La rigidité (difficulté à changer le code).
 
-Pour plus de détails, vous pouvez consulter le [résumé complet](https://www.freecodecamp.org/news/how-to-write-clean-code/) ou [l'article original](https://dzone.com/articles/clean-code-summary-and-key-points) sur le clean code. 😊👍
+**Voici quelques oeuvres sur le clean code:** 
 
-Source: Conversation with Copilot, 02/07/2024
 (1) Summary of 'Clean code' by Robert C. Martin · GitHub. https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29.
 (2) How to Write Clean Code – Tips and Best Practices (Full Handbook). https://www.freecodecamp.org/news/how-to-write-clean-code/.
 (3) Clean Code Summary and Key Points - DZone. https://dzone.com/articles/clean-code-summary-and-key-points.
