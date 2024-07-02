@@ -54,6 +54,6 @@ Le **clean code** est un concept essentiel en développement logiciel. Voici un 
 
 **Voici quelques oeuvres sur le clean code:** 
 
-(1) Summary of 'Clean code' by Robert C. Martin · GitHub. https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29.
-(2) How to Write Clean Code – Tips and Best Practices (Full Handbook). https://www.freecodecamp.org/news/how-to-write-clean-code/.
-(3) Clean Code Summary and Key Points - DZone. https://dzone.com/articles/clean-code-summary-and-key-points.
+- (1) Summary of 'Clean code' by Robert C. Martin · GitHub. https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29.
+- (2) How to Write Clean Code – Tips and Best Practices (Full Handbook). https://www.freecodecamp.org/news/how-to-write-clean-code/.
+- (3) Clean Code Summary and Key Points - DZone. https://dzone.com/articles/clean-code-summary-and-key-points.
