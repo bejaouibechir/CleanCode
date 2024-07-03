@@ -1,4 +1,5 @@
-# Catalogue de Refactorings en C# (.NET 8)
+# Catalogue de Refactorings en C# principes et techniques
+Le refactoring est une pratique essentielle pour améliorer la qualité du code, réduire la dette technique et maintenir un système logiciel évolutif. Voici quelques techniques courantes de refactoring que vous pouvez appliquer en C# :
 
 ## 1. **Changement de signature de fonction** (Change Function Declaration)
 Modifie les paramètres d'une fonction.
@@ -119,7 +120,7 @@ Encapsule une collection (tableau, liste, etc.) dans une classe.
 string[] names = { "Alice", "Bob", "Charlie" };
 
 // Après
-class NamesCollection { ... }
+class NamesCollection :ICollection<string> { ... }
 ```
 
 <!-- Continue with other refactorings -->
@@ -384,14 +385,6 @@ public double CalculateTotalPrice(double unitPrice, int quantity)
 }
 ```
 
-Bien sûr ! Voici une reformulation du contenu avec des exemples de code en C# et un format adapté pour un fichier `readme.md` (Markdown) :
-
----
-
-## Refactoring de code : Principes et techniques
-
-Le refactoring est une pratique essentielle pour améliorer la qualité du code, réduire la dette technique et maintenir un système logiciel évolutif. Voici quelques techniques courantes de refactoring que vous pouvez appliquer en C# :
-
 ### 21. Inline de méthode (Inline Method)
 Remplacez un appel de méthode par le corps de la méthode elle-même. Cela peut rendre le code plus lisible et réduire les appels de méthode inutiles.
 
@@ -462,8 +455,6 @@ public class ShoppingCart
     }
 }
 ```
-
-Bien sûr, voici la suite des techniques de refactoring en C# avec des exemples pour chacune d'elles :
 
 ### 25. Déplacement d’instructions dans une fonction (Move Statements into Function)
 Cette technique consiste à regrouper des instructions dans une nouvelle fonction. Elle permet de rendre le code plus modulaire et de réduire la duplication.
